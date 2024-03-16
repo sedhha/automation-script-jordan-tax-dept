@@ -1,3 +1,4 @@
 {
-  "read_file_path_from_root": "files/read"
+  "read_file_path_from_root": "files/read",
+  "discount_percentage": 7.0
 }

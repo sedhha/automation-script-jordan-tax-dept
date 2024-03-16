@@ -1,1 +1,420 @@
-<Restos><Resto code="0001" identifier="1428359" name="Reds" version="7.08.000.351"><FiscalDate date="2024-02-22 00:51:44"><Invoice version="4"><Line>Reds</Line><Line>0777774245</Line><Line>------------------------------</Line><Authorization>------------------------------</Authorization><Authorization>For Reservation: 0777774245</Authorization><Authorization>Sales Tax#</Authorization><Remark>Thank You</Remark><Remark>....</Remark><Info>YOU HAVE BEEN SERVED</Info><Info>BY : Abdalla</Info><RedisNumber>0</RedisNumber><RedisCount>1</RedisCount><InvoiceNumber>166501</InvoiceNumber><IntegrityNumber></IntegrityNumber><UseSecurityAlgorithm>FALSE</UseSecurityAlgorithm><Waiter><Name>Abdalla</Name><Number>13</Number><Function>1</Function></Waiter><Workstation>1</Workstation><PrintingPos>0</PrintingPos><Menu MDID="1">RED'S</Menu><EventName MDID="0" IsMainInvoice="FALSE"></EventName><Mode MDID="0">--------------</Mode><Cashier>13</Cashier><WaiterDiscount>10</WaiterDiscount><ReferenceId></ReferenceId><PrintCount>1</PrintCount><TableNumber>30</TableNumber><TableName></TableName><Totals><Categories><Category><Description MDID="2">BEVERAGE</Description><Amount Currency="JD">              JD  16.50 </Amount></Category><Category><Description MDID="5">Modifiers</Description><Amount Currency="JD">               JD  0.00 </Amount></Category><Category><Description MDID="1">FOOD</Description><Amount Currency="JD">               JD  7.50 </Amount></Category></Categories><Divisions><Division><Description MDID="9">Liq Shots</Description><Amount Currency="JD">              JD  16.50 </Amount></Division><Division><Description MDID="5">Modifiers</Description><Amount Currency="JD">               JD  0.00 </Amount></Division><Division><Description MDID="3">Appetizers</Description><Amount Currency="JD">               JD  7.50 </Amount></Division></Divisions><TotalSale Currency="JD">              JD  24.00 </TotalSale><NoTaxSale Currency="JD">               JD  0.00 </NoTaxSale></Totals><SubTotals><SubTotalCategory Currency="JD">              JD  24.00 </SubTotalCategory><SubTotal Description="SUB-TOTAL" Currency="JD">              JD  15.31 </SubTotal><SubTotalDiscount Currency="JD">              JD  13.50 </SubTotalDiscount></SubTotals><Charges><Service Currency="JD">               JD  0.68 </Service></Charges><Total Currency="JD">              JD  15.31 </Total><Tip Currency="JD"></Tip><Change Currency="JD"></Change><TotalTaxes Currency="JD">               JD  1.13 </TotalTaxes><Statistic><TimeOpen>2024-02-22 16:30:30</TimeOpen><TimeOrdered>2024-02-22 16:30:39</TimeOrdered><TimePayment>2024-02-22 17:00:45</TimePayment><TimeClose>2024-02-22 17:00:45</TimeClose><TimeSend>2024-02-22 16:30:39</TimeSend><TimePrint>2024-02-22 16:59:02</TimePrint><TimeKitchen>2024-02-22 16:30:39</TimeKitchen><TimeTransaction>2024-02-22 16:59:00</TimeTransaction><CustomerCount>1</CustomerCount><InvoiceCustomerCount>1</InvoiceCustomerCount><CheckCount>1</CheckCount><MealCount>0</MealCount><ItemCount>4</ItemCount></Statistic><Customer><Name></Name><Consent></Consent><ConsentDate></ConsentDate><Phone></Phone><PhoneExt></PhoneExt><FolioFD></FolioFD><IdFD></IdFD><FolioDM></FolioDM><Address><AddLine1></AddLine1><AddLine2></AddLine2><AddLine3></AddLine3><City></City><State></State><AreaCode></AreaCode><ZipCode></ZipCode></Address><CustRemark></CustRemark><CustRemark></CustRemark><CustRemark></CustRemark><SpecialRemark></SpecialRemark><SpecialRemark></SpecialRemark></Customer><InvoiceDetails><InvoiceDetail MDID="3" Print="1"><Description MDID="2114">Spinach Dip</Description><DescriptionEx></DescriptionEx><Mode MDID="1">--------------</Mode><Category MDID="1">FOOD</Category><Division MDID="3">Appetizers</Division><UnitPrice Currency="JD">               JD  7.50 </UnitPrice><TransactionPrice Currency="JD">               JD  7.50 </TransactionPrice><Amount Currency="JD">               JD  7.50 </Amount><InclusiveTax Currency="JD">               JD  0.00 </InclusiveTax><FoodCost Currency="JD">               JD  0.00 </FoodCost><ItemSalePrice Currency="JD">               JD  7.50 </ItemSalePrice><DiscountedItemSalePrice Currency="JD">               JD  7.50 </DiscountedItemSalePrice><Quantity>1</Quantity><SpMenuMainItem>0</SpMenuMainItem><SpMenuControlItem>0</SpMenuControlItem><SpMenuModifCtrlItem>0</SpMenuModifCtrlItem><Discount MDID=""><Description></Description><Amount Currency="JD"></Amount><IncludedTax Currency="JD"></IncludedTax></Discount><DiscountList><Discount MDID=""><Description></Description><Amount Currency="JD"></Amount><IncludedTax Currency="JD"></IncludedTax></Discount></DiscountList><CodePLU></CodePLU><MealType MDID="0" Print="1">Undefined</MealType><TimeOrdered>2024-02-22 16:30:39</TimeOrdered><ItemFunction MDID="0">Revenue</ItemFunction><TaxIdApplied1>2</TaxIdApplied1><TaxIdApplied2>11</TaxIdApplied2><TaxCode></TaxCode><ExtraInformation><Location>2</Location><Buffet>0</Buffet><Split>0</Split><TransTime>990</TransTime><Table>30</Table><WaiterNo>13</WaiterNo><Terminal>3</Terminal><UsePrice></UsePrice><SeatNumber>1</SeatNumber><ClientCount>0</ClientCount><Menu MDID="0">RED'S</Menu><Course>0</Course><ItemStartTime>0</ItemStartTime><Ratio></Ratio><Count></Count><Free></Free><Weight></Weight><Training></Training><TableDel></TableDel><DayBook></DayBook><WebTrans></WebTrans><NoPost></NoPost><Included></Included><Discount></Discount><KitchenHold></KitchenHold><PreviousDay></PreviousDay><VoidReopenCheck></VoidReopenCheck><OnFly></OnFly><InCombo></InCombo><OpenDesc></OpenDesc></ExtraInformation></InvoiceDetail><InvoiceDetail MDID="1" Print="1"><Description MDID="2222">Arak</Description><DescriptionEx></DescriptionEx><Mode MDID="1">--------------</Mode><Category MDID="2">BEVERAGE</Category><Division MDID="9">Liq Shots</Division><UnitPrice Currency="JD">               JD  5.50 </UnitPrice><TransactionPrice Currency="JD">               JD  5.50 </TransactionPrice><Amount Currency="JD">              JD  16.50 </Amount><InclusiveTax Currency="JD">               JD  0.00 </InclusiveTax><FoodCost Currency="JD">               JD  0.00 </FoodCost><ItemSalePrice Currency="JD">               JD  5.50 </ItemSalePrice><DiscountedItemSalePrice Currency="JD">               JD  5.50 </DiscountedItemSalePrice><Quantity>3</Quantity><SpMenuMainItem>0</SpMenuMainItem><SpMenuControlItem>0</SpMenuControlItem><SpMenuModifCtrlItem>0</SpMenuModifCtrlItem><Discount MDID=""><Description></Description><Amount Currency="JD"></Amount><IncludedTax Currency="JD"></IncludedTax></Discount><DiscountList><Discount MDID=""><Description></Description><Amount Currency="JD"></Amount><IncludedTax Currency="JD"></IncludedTax></Discount></DiscountList><CodePLU></CodePLU><MealType MDID="0" Print="1">Undefined</MealType><TimeOrdered>2024-02-22 16:30:39</TimeOrdered><ItemFunction MDID="0">Revenue</ItemFunction><TaxIdApplied1>2</TaxIdApplied1><TaxIdApplied2>11</TaxIdApplied2><TaxCode></TaxCode><ExtraInformation><Location>5</Location><Buffet>0</Buffet><Split>0</Split><TransTime>990</TransTime><Table>30</Table><WaiterNo>13</WaiterNo><Terminal>3</Terminal><UsePrice></UsePrice><SeatNumber>1</SeatNumber><ClientCount>1</ClientCount><Menu MDID="0">RED'S</Menu><Course>0</Course><ItemStartTime>0</ItemStartTime><Ratio></Ratio><Count></Count><Free></Free><Weight></Weight><Training></Training><TableDel></TableDel><DayBook></DayBook><WebTrans></WebTrans><NoPost></NoPost><Included></Included><Discount></Discount><KitchenHold></KitchenHold><PreviousDay></PreviousDay><VoidReopenCheck></VoidReopenCheck><OnFly></OnFly><InCombo></InCombo><OpenDesc></OpenDesc></ExtraInformation><InvoiceDetail MDID="2" Print="0"><Description MDID="1778">==&gt; no Mixer</Description><DescriptionEx></DescriptionEx><Mode MDID="1">--------------</Mode><Category MDID="5">Modifiers</Category><Division MDID="5">Modifiers</Division><UnitPrice Currency="JD">               JD  0.00 </UnitPrice><TransactionPrice Currency="JD">               JD  0.00 </TransactionPrice><Amount Currency="JD">               JD  0.00 </Amount><InclusiveTax Currency="JD">               JD  0.00 </InclusiveTax><FoodCost Currency="JD">               JD  0.00 </FoodCost><ItemSalePrice Currency="JD">               JD  0.00 </ItemSalePrice><DiscountedItemSalePrice Currency="JD">               JD  0.00 </DiscountedItemSalePrice><Quantity>3</Quantity><SpMenuMainItem>0</SpMenuMainItem><SpMenuControlItem>0</SpMenuControlItem><SpMenuModifCtrlItem>1</SpMenuModifCtrlItem><Discount MDID=""><Description></Description><Amount Currency="JD"></Amount><IncludedTax Currency="JD"></IncludedTax></Discount><DiscountList><Discount MDID=""><Description></Description><Amount Currency="JD"></Amount><IncludedTax Currency="JD"></IncludedTax></Discount></DiscountList><CodePLU></CodePLU><MealType MDID="0" Print="1">Undefined</MealType><TimeOrdered>2024-02-22 16:30:39</TimeOrdered><ItemFunction MDID="2">Modifier</ItemFunction><TaxIdApplied1>2</TaxIdApplied1><TaxIdApplied2>11</TaxIdApplied2><TaxCode></TaxCode><ExtraInformation><Location>5</Location><Buffet>0</Buffet><Split>0</Split><TransTime>990</TransTime><Table>30</Table><WaiterNo>13</WaiterNo><Terminal>3</Terminal><UsePrice></UsePrice><SeatNumber>1</SeatNumber><ClientCount>0</ClientCount><Menu MDID="0">RED'S</Menu><Course>0</Course><ItemStartTime>0</ItemStartTime><Ratio></Ratio><Count></Count><Free></Free><Weight>TRUE</Weight><Training></Training><TableDel></TableDel><DayBook></DayBook><WebTrans></WebTrans><NoPost></NoPost><Included></Included><Discount></Discount><KitchenHold></KitchenHold><PreviousDay></PreviousDay><VoidReopenCheck></VoidReopenCheck><OnFly></OnFly><InCombo></InCombo><OpenDesc></OpenDesc></ExtraInformation></InvoiceDetail></InvoiceDetail></InvoiceDetails><Discounts><Discount><Description MDID="7" Print="1">Lunch Happy Hour</Description><Amount Currency="JD">               JD  2.25-</Amount><IncludedTax Currency="JD">               JD  0.00 </IncludedTax><Folio></Folio></Discount><Discount><Description MDID="5" Print="1">Happy Hour</Description><Amount Currency="JD">               JD  8.25-</Amount><IncludedTax Currency="JD">               JD  0.00 </IncludedTax><Folio></Folio></Discount></Discounts><Payments><Payment><Description MDID="1">CASH</Description><Amount Currency="JD">              JD  15.31 </Amount><Currency>0</Currency><Tips>0</Tips><Fees>0</Fees><PaymentNumber>1</PaymentNumber><DateTime></DateTime><WaiterWhoAutorized>0</WaiterWhoAutorized><Folio></Folio><HashFolio>0b7894172b53a077a5249d139e82b230</HashFolio><CardTypeName></CardTypeName></Payment></Payments><Taxes><Tax Print="1"><Description MDID="2">Sales Tax 8%</Description><Amount Currency="JD">               JD  1.13 </Amount><Sales Currency="JD">              JD  14.18 </Sales><Rate>800000</Rate></Tax><Tax><Description MDID="4">NON TAXABLE</Description><Amount Currency="JD">               JD  0.00 </Amount><Sales Currency="JD">               JD  0.68 </Sales><Rate>0</Rate></Tax></Taxes><LoyaltyPrograms/><Flags><Paid>TRUE</Paid><DeliveryOrder>FALSE</DeliveryOrder><Redistributed>FALSE</Redistributed><RoomCharge>FALSE</RoomCharge><ExternalBill>FALSE</ExternalBill><Deleted>FALSE</Deleted><CliCountAskingMoment>0</CliCountAskingMoment><DeletedByTableVoider>FALSE</DeletedByTableVoider><Posted>TRUE</Posted><Training>FALSE</Training><CountClient>TRUE</CountClient><VoidReopenCheck>FALSE</VoidReopenCheck><FrequentDinner>FALSE</FrequentDinner><ImportSales>FALSE</ImportSales><ExternalAutoClosed>FALSE</ExternalAutoClosed><UseGratuity>FALSE</UseGratuity><UseService>TRUE</UseService><DivisionOnCheck>FALSE</DivisionOnCheck><LocalFrequentDinner>TRUE</LocalFrequentDinner><ItemCountOnCheck>FALSE</ItemCountOnCheck><PrintRevCenterDesc>FALSE</PrintRevCenterDesc><PrintModeDesc>FALSE</PrintModeDesc><BarTenderStatus>FALSE</BarTenderStatus><SpecialMenu>TRUE</SpecialMenu><ItemLines>FALSE</ItemLines></Flags><DeliveryWarranty></DeliveryWarranty><DeliveryPrompt></DeliveryPrompt><CustomerList>1</CustomerList><CustomerPrompt>CUSTOMER #</CustomerPrompt><EuropeanOperation>0</EuropeanOperation><VatCalculation>0</VatCalculation><TotalSalesTax>2400</TotalSalesTax><TotalSalesNoTax>0</TotalSalesNoTax><Service>68</Service><ServiceIncludedTax>0</ServiceIncludedTax><InvoiceTip>0</InvoiceTip><ModeSwitch>0</ModeSwitch><RevenueCenterSwitch>0</RevenueCenterSwitch><ReopenCheckReference>0</ReopenCheckReference><TaxError>FALSE</TaxError><DZnumber>35753</DZnumber><DZnumberCashier>13</DZnumberCashier><OrderNo>000</OrderNo></Invoice></FiscalDate></Resto></Restos>
+<Restos>
+    <Resto code="0001" identifier="1428359" name="Reds" version="7.08.000.351">
+        <FiscalDate date="2024-02-22 00:51:44">
+            <Invoice version="4">
+                <Line>Reds</Line>
+                <Line>0777774245</Line>
+                <Line>------------------------------</Line>
+                <Authorization>------------------------------</Authorization>
+                <Authorization>For Reservation: 0777774245</Authorization>
+                <Authorization>Sales Tax#</Authorization>
+                <Remark>Thank You</Remark>
+                <Remark>....</Remark>
+                <Info>YOU HAVE BEEN SERVED</Info>
+                <Info>BY : Abdalla</Info>
+                <RedisNumber>0</RedisNumber>
+                <RedisCount>1</RedisCount>
+                <InvoiceNumber>166501</InvoiceNumber>
+                <IntegrityNumber></IntegrityNumber>
+                <UseSecurityAlgorithm>FALSE</UseSecurityAlgorithm>
+                <Waiter>
+                    <Name>Abdalla</Name>
+                    <Number>13</Number>
+                    <Function>1</Function>
+                </Waiter>
+                <Workstation>1</Workstation>
+                <PrintingPos>0</PrintingPos>
+                <Menu MDID="1">RED'S</Menu>
+                <EventName MDID="0" IsMainInvoice="FALSE"></EventName>
+                <Mode MDID="0">--------------</Mode>
+                <Cashier>13</Cashier>
+                <WaiterDiscount>10</WaiterDiscount>
+                <ReferenceId></ReferenceId>
+                <PrintCount>1</PrintCount>
+                <TableNumber>30</TableNumber>
+                <TableName></TableName>
+                <Totals>
+                    <Categories>
+                        <Category>
+                            <Description MDID="2">BEVERAGE</Description>
+                            <Amount Currency="JD">              JD  16.50 </Amount>
+                        </Category>
+                        <Category>
+                            <Description MDID="5">Modifiers</Description>
+                            <Amount Currency="JD">               JD  0.00 </Amount>
+                        </Category>
+                        <Category>
+                            <Description MDID="1">FOOD</Description>
+                            <Amount Currency="JD">               JD  7.50 </Amount>
+                        </Category>
+                    </Categories>
+                    <Divisions>
+                        <Division>
+                            <Description MDID="9">Liq Shots</Description>
+                            <Amount Currency="JD">              JD  16.50 </Amount>
+                        </Division>
+                        <Division>
+                            <Description MDID="5">Modifiers</Description>
+                            <Amount Currency="JD">               JD  0.00 </Amount>
+                        </Division>
+                        <Division>
+                            <Description MDID="3">Appetizers</Description>
+                            <Amount Currency="JD">               JD  7.50 </Amount>
+                        </Division>
+                    </Divisions>
+                    <TotalSale Currency="JD">              JD  24.00 </TotalSale>
+                    <NoTaxSale Currency="JD">               JD  0.00 </NoTaxSale>
+                </Totals>
+                <SubTotals>
+                    <SubTotalCategory Currency="JD">              JD  24.00 </SubTotalCategory>
+                    <SubTotal Description="SUB-TOTAL" Currency="JD">              JD  15.31 </SubTotal>
+                    <SubTotalDiscount Currency="JD">              JD  13.50 </SubTotalDiscount>
+                </SubTotals>
+                <Charges>
+                    <Service Currency="JD">               JD  0.68 </Service>
+                </Charges>
+                <Total Currency="JD">              JD  15.31 </Total>
+                <Tip Currency="JD"></Tip>
+                <Change Currency="JD"></Change>
+                <TotalTaxes Currency="JD">               JD  1.13 </TotalTaxes>
+                <Statistic>
+                    <TimeOpen>2024-02-22 16:30:30</TimeOpen>
+                    <TimeOrdered>2024-02-22 16:30:39</TimeOrdered>
+                    <TimePayment>2024-02-22 17:00:45</TimePayment>
+                    <TimeClose>2024-02-22 17:00:45</TimeClose>
+                    <TimeSend>2024-02-22 16:30:39</TimeSend>
+                    <TimePrint>2024-02-22 16:59:02</TimePrint>
+                    <TimeKitchen>2024-02-22 16:30:39</TimeKitchen>
+                    <TimeTransaction>2024-02-22 16:59:00</TimeTransaction>
+                    <CustomerCount>1</CustomerCount>
+                    <InvoiceCustomerCount>1</InvoiceCustomerCount>
+                    <CheckCount>1</CheckCount>
+                    <MealCount>0</MealCount>
+                    <ItemCount>4</ItemCount>
+                </Statistic>
+                <Customer>
+                    <Name></Name>
+                    <Consent></Consent>
+                    <ConsentDate></ConsentDate>
+                    <Phone></Phone>
+                    <PhoneExt></PhoneExt>
+                    <FolioFD></FolioFD>
+                    <IdFD></IdFD>
+                    <FolioDM></FolioDM>
+                    <Address>
+                        <AddLine1></AddLine1>
+                        <AddLine2></AddLine2>
+                        <AddLine3></AddLine3>
+                        <City></City>
+                        <State></State>
+                        <AreaCode></AreaCode>
+                        <ZipCode></ZipCode>
+                    </Address>
+                    <CustRemark></CustRemark>
+                    <CustRemark></CustRemark>
+                    <CustRemark></CustRemark>
+                    <SpecialRemark></SpecialRemark>
+                    <SpecialRemark></SpecialRemark>
+                </Customer>
+                <InvoiceDetails>
+                    <InvoiceDetail MDID="3" Print="1">
+                        <Description MDID="2114">Spinach Dip</Description>
+                        <DescriptionEx></DescriptionEx>
+                        <Mode MDID="1">--------------</Mode>
+                        <Category MDID="1">FOOD</Category>
+                        <Division MDID="3">Appetizers</Division>
+                        <UnitPrice Currency="JD">               JD  7.50 </UnitPrice>
+                        <TransactionPrice Currency="JD">               JD  7.50 </TransactionPrice>
+                        <Amount Currency="JD">               JD  7.50 </Amount>
+                        <InclusiveTax Currency="JD">               JD  0.00 </InclusiveTax>
+                        <FoodCost Currency="JD">               JD  0.00 </FoodCost>
+                        <ItemSalePrice Currency="JD">               JD  7.50 </ItemSalePrice>
+                        <DiscountedItemSalePrice Currency="JD">               JD  7.50 </DiscountedItemSalePrice>
+                        <Quantity>1</Quantity>
+                        <SpMenuMainItem>0</SpMenuMainItem>
+                        <SpMenuControlItem>0</SpMenuControlItem>
+                        <SpMenuModifCtrlItem>0</SpMenuModifCtrlItem>
+                        <Discount MDID="">
+                            <Description></Description>
+                            <Amount Currency="JD"></Amount>
+                            <IncludedTax Currency="JD"></IncludedTax>
+                        </Discount>
+                        <DiscountList>
+                            <Discount MDID="">
+                                <Description></Description>
+                                <Amount Currency="JD"></Amount>
+                                <IncludedTax Currency="JD"></IncludedTax>
+                            </Discount>
+                        </DiscountList>
+                        <CodePLU></CodePLU>
+                        <MealType MDID="0" Print="1">Undefined</MealType>
+                        <TimeOrdered>2024-02-22 16:30:39</TimeOrdered>
+                        <ItemFunction MDID="0">Revenue</ItemFunction>
+                        <TaxIdApplied1>2</TaxIdApplied1>
+                        <TaxIdApplied2>11</TaxIdApplied2>
+                        <TaxCode></TaxCode>
+                        <ExtraInformation>
+                            <Location>2</Location>
+                            <Buffet>0</Buffet>
+                            <Split>0</Split>
+                            <TransTime>990</TransTime>
+                            <Table>30</Table>
+                            <WaiterNo>13</WaiterNo>
+                            <Terminal>3</Terminal>
+                            <UsePrice></UsePrice>
+                            <SeatNumber>1</SeatNumber>
+                            <ClientCount>0</ClientCount>
+                            <Menu MDID="0">RED'S</Menu>
+                            <Course>0</Course>
+                            <ItemStartTime>0</ItemStartTime>
+                            <Ratio></Ratio>
+                            <Count></Count>
+                            <Free></Free>
+                            <Weight></Weight>
+                            <Training></Training>
+                            <TableDel></TableDel>
+                            <DayBook></DayBook>
+                            <WebTrans></WebTrans>
+                            <NoPost></NoPost>
+                            <Included></Included>
+                            <Discount></Discount>
+                            <KitchenHold></KitchenHold>
+                            <PreviousDay></PreviousDay>
+                            <VoidReopenCheck></VoidReopenCheck>
+                            <OnFly></OnFly>
+                            <InCombo></InCombo>
+                            <OpenDesc></OpenDesc>
+                        </ExtraInformation>
+                    </InvoiceDetail>
+                    <InvoiceDetail MDID="1" Print="1">
+                        <Description MDID="2222">Arak</Description>
+                        <DescriptionEx></DescriptionEx>
+                        <Mode MDID="1">--------------</Mode>
+                        <Category MDID="2">BEVERAGE</Category>
+                        <Division MDID="9">Liq Shots</Division>
+                        <UnitPrice Currency="JD">               JD  5.50 </UnitPrice>
+                        <TransactionPrice Currency="JD">               JD  5.50 </TransactionPrice>
+                        <Amount Currency="JD">              JD  16.50 </Amount>
+                        <InclusiveTax Currency="JD">               JD  0.00 </InclusiveTax>
+                        <FoodCost Currency="JD">               JD  0.00 </FoodCost>
+                        <ItemSalePrice Currency="JD">               JD  5.50 </ItemSalePrice>
+                        <DiscountedItemSalePrice Currency="JD">               JD  5.50 </DiscountedItemSalePrice>
+                        <Quantity>3</Quantity>
+                        <SpMenuMainItem>0</SpMenuMainItem>
+                        <SpMenuControlItem>0</SpMenuControlItem>
+                        <SpMenuModifCtrlItem>0</SpMenuModifCtrlItem>
+                        <Discount MDID="">
+                            <Description></Description>
+                            <Amount Currency="JD"></Amount>
+                            <IncludedTax Currency="JD"></IncludedTax>
+                        </Discount>
+                        <DiscountList>
+                            <Discount MDID="">
+                                <Description></Description>
+                                <Amount Currency="JD"></Amount>
+                                <IncludedTax Currency="JD"></IncludedTax>
+                            </Discount>
+                        </DiscountList>
+                        <CodePLU></CodePLU>
+                        <MealType MDID="0" Print="1">Undefined</MealType>
+                        <TimeOrdered>2024-02-22 16:30:39</TimeOrdered>
+                        <ItemFunction MDID="0">Revenue</ItemFunction>
+                        <TaxIdApplied1>2</TaxIdApplied1>
+                        <TaxIdApplied2>11</TaxIdApplied2>
+                        <TaxCode></TaxCode>
+                        <ExtraInformation>
+                            <Location>5</Location>
+                            <Buffet>0</Buffet>
+                            <Split>0</Split>
+                            <TransTime>990</TransTime>
+                            <Table>30</Table>
+                            <WaiterNo>13</WaiterNo>
+                            <Terminal>3</Terminal>
+                            <UsePrice></UsePrice>
+                            <SeatNumber>1</SeatNumber>
+                            <ClientCount>1</ClientCount>
+                            <Menu MDID="0">RED'S</Menu>
+                            <Course>0</Course>
+                            <ItemStartTime>0</ItemStartTime>
+                            <Ratio></Ratio>
+                            <Count></Count>
+                            <Free></Free>
+                            <Weight></Weight>
+                            <Training></Training>
+                            <TableDel></TableDel>
+                            <DayBook></DayBook>
+                            <WebTrans></WebTrans>
+                            <NoPost></NoPost>
+                            <Included></Included>
+                            <Discount></Discount>
+                            <KitchenHold></KitchenHold>
+                            <PreviousDay></PreviousDay>
+                            <VoidReopenCheck></VoidReopenCheck>
+                            <OnFly></OnFly>
+                            <InCombo></InCombo>
+                            <OpenDesc></OpenDesc>
+                        </ExtraInformation>
+                        <InvoiceDetail MDID="2" Print="0">
+                            <Description MDID="1778">==&gt; no Mixer</Description>
+                            <DescriptionEx></DescriptionEx>
+                            <Mode MDID="1">--------------</Mode>
+                            <Category MDID="5">Modifiers</Category>
+                            <Division MDID="5">Modifiers</Division>
+                            <UnitPrice Currency="JD">               JD  0.00 </UnitPrice>
+                            <TransactionPrice Currency="JD">               JD  0.00 </TransactionPrice>
+                            <Amount Currency="JD">               JD  0.00 </Amount>
+                            <InclusiveTax Currency="JD">               JD  0.00 </InclusiveTax>
+                            <FoodCost Currency="JD">               JD  0.00 </FoodCost>
+                            <ItemSalePrice Currency="JD">               JD  0.00 </ItemSalePrice>
+                            <DiscountedItemSalePrice Currency="JD">               JD  0.00 </DiscountedItemSalePrice>
+                            <Quantity>3</Quantity>
+                            <SpMenuMainItem>0</SpMenuMainItem>
+                            <SpMenuControlItem>0</SpMenuControlItem>
+                            <SpMenuModifCtrlItem>1</SpMenuModifCtrlItem>
+                            <Discount MDID="">
+                                <Description></Description>
+                                <Amount Currency="JD"></Amount>
+                                <IncludedTax Currency="JD"></IncludedTax>
+                            </Discount>
+                            <DiscountList>
+                                <Discount MDID="">
+                                    <Description></Description>
+                                    <Amount Currency="JD"></Amount>
+                                    <IncludedTax Currency="JD"></IncludedTax>
+                                </Discount>
+                            </DiscountList>
+                            <CodePLU></CodePLU>
+                            <MealType MDID="0" Print="1">Undefined</MealType>
+                            <TimeOrdered>2024-02-22 16:30:39</TimeOrdered>
+                            <ItemFunction MDID="2">Modifier</ItemFunction>
+                            <TaxIdApplied1>2</TaxIdApplied1>
+                            <TaxIdApplied2>11</TaxIdApplied2>
+                            <TaxCode></TaxCode>
+                            <ExtraInformation>
+                                <Location>5</Location>
+                                <Buffet>0</Buffet>
+                                <Split>0</Split>
+                                <TransTime>990</TransTime>
+                                <Table>30</Table>
+                                <WaiterNo>13</WaiterNo>
+                                <Terminal>3</Terminal>
+                                <UsePrice></UsePrice>
+                                <SeatNumber>1</SeatNumber>
+                                <ClientCount>0</ClientCount>
+                                <Menu MDID="0">RED'S</Menu>
+                                <Course>0</Course>
+                                <ItemStartTime>0</ItemStartTime>
+                                <Ratio></Ratio>
+                                <Count></Count>
+                                <Free></Free>
+                                <Weight>TRUE</Weight>
+                                <Training></Training>
+                                <TableDel></TableDel>
+                                <DayBook></DayBook>
+                                <WebTrans></WebTrans>
+                                <NoPost></NoPost>
+                                <Included></Included>
+                                <Discount></Discount>
+                                <KitchenHold></KitchenHold>
+                                <PreviousDay></PreviousDay>
+                                <VoidReopenCheck></VoidReopenCheck>
+                                <OnFly></OnFly>
+                                <InCombo></InCombo>
+                                <OpenDesc></OpenDesc>
+                            </ExtraInformation>
+                        </InvoiceDetail>
+                    </InvoiceDetail>
+                </InvoiceDetails>
+                <Discounts>
+                    <Discount>
+                        <Description MDID="7" Print="1">Lunch Happy Hour</Description>
+                        <Amount Currency="JD">               JD  2.25-</Amount>
+                        <IncludedTax Currency="JD">               JD  0.00 </IncludedTax>
+                        <Folio></Folio>
+                    </Discount>
+                    <Discount>
+                        <Description MDID="5" Print="1">Happy Hour</Description>
+                        <Amount Currency="JD">               JD  8.25-</Amount>
+                        <IncludedTax Currency="JD">               JD  0.00 </IncludedTax>
+                        <Folio></Folio>
+                    </Discount>
+                </Discounts>
+                <Payments>
+                    <Payment>
+                        <Description MDID="1">CASH</Description>
+                        <Amount Currency="JD">              JD  15.31 </Amount>
+                        <Currency>0</Currency>
+                        <Tips>0</Tips>
+                        <Fees>0</Fees>
+                        <PaymentNumber>1</PaymentNumber>
+                        <DateTime></DateTime>
+                        <WaiterWhoAutorized>0</WaiterWhoAutorized>
+                        <Folio></Folio>
+                        <HashFolio>0b7894172b53a077a5249d139e82b230</HashFolio>
+                        <CardTypeName></CardTypeName>
+                    </Payment>
+                </Payments>
+                <Taxes>
+                    <Tax Print="1">
+                        <Description MDID="2">Sales Tax 8%</Description>
+                        <Amount Currency="JD">               JD  1.13 </Amount>
+                        <Sales Currency="JD">              JD  14.18 </Sales>
+                        <Rate>800000</Rate>
+                    </Tax>
+                    <Tax>
+                        <Description MDID="4">NON TAXABLE</Description>
+                        <Amount Currency="JD">               JD  0.00 </Amount>
+                        <Sales Currency="JD">               JD  0.68 </Sales>
+                        <Rate>0</Rate>
+                    </Tax>
+                </Taxes>
+                <LoyaltyPrograms/>
+                <Flags>
+                    <Paid>TRUE</Paid>
+                    <DeliveryOrder>FALSE</DeliveryOrder>
+                    <Redistributed>FALSE</Redistributed>
+                    <RoomCharge>FALSE</RoomCharge>
+                    <ExternalBill>FALSE</ExternalBill>
+                    <Deleted>FALSE</Deleted>
+                    <CliCountAskingMoment>0</CliCountAskingMoment>
+                    <DeletedByTableVoider>FALSE</DeletedByTableVoider>
+                    <Posted>TRUE</Posted>
+                    <Training>FALSE</Training>
+                    <CountClient>TRUE</CountClient>
+                    <VoidReopenCheck>FALSE</VoidReopenCheck>
+                    <FrequentDinner>FALSE</FrequentDinner>
+                    <ImportSales>FALSE</ImportSales>
+                    <ExternalAutoClosed>FALSE</ExternalAutoClosed>
+                    <UseGratuity>FALSE</UseGratuity>
+                    <UseService>TRUE</UseService>
+                    <DivisionOnCheck>FALSE</DivisionOnCheck>
+                    <LocalFrequentDinner>TRUE</LocalFrequentDinner>
+                    <ItemCountOnCheck>FALSE</ItemCountOnCheck>
+                    <PrintRevCenterDesc>FALSE</PrintRevCenterDesc>
+                    <PrintModeDesc>FALSE</PrintModeDesc>
+                    <BarTenderStatus>FALSE</BarTenderStatus>
+                    <SpecialMenu>TRUE</SpecialMenu>
+                    <ItemLines>FALSE</ItemLines>
+                </Flags>
+                <DeliveryWarranty></DeliveryWarranty>
+                <DeliveryPrompt></DeliveryPrompt>
+                <CustomerList>1</CustomerList>
+                <CustomerPrompt>CUSTOMER #</CustomerPrompt>
+                <EuropeanOperation>0</EuropeanOperation>
+                <VatCalculation>0</VatCalculation>
+                <TotalSalesTax>2400</TotalSalesTax>
+                <TotalSalesNoTax>0</TotalSalesNoTax>
+                <Service>68</Service>
+                <ServiceIncludedTax>0</ServiceIncludedTax>
+                <InvoiceTip>0</InvoiceTip>
+                <ModeSwitch>0</ModeSwitch>
+                <RevenueCenterSwitch>0</RevenueCenterSwitch>
+                <ReopenCheckReference>0</ReopenCheckReference>
+                <TaxError>FALSE</TaxError>
+                <DZnumber>35753</DZnumber>
+                <DZnumberCashier>13</DZnumberCashier>
+                <OrderNo>000</OrderNo>
+            </Invoice>
+        </FiscalDate>
+    </Resto>
+</Restos>

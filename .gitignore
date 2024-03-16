@@ -37,3 +37,7 @@ Thumbs.db
 
 # Optional user files
 *.sub
+files/dump/*
+assets/quotation.docx
+assets/quotation.pdf
+assets/tax_dept_manual.pdf
