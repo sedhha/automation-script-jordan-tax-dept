@@ -1,0 +1,17 @@
+{
+  "name": "post_tax_dept",
+  "version": "1.0.0",
+  "description": "Scripts to parse xml and post them to tax dept",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.12.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "xml2js": "^0.6.2"
+  }
+}

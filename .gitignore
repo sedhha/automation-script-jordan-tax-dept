@@ -1,0 +1,39 @@
+# Add gitignore configuration for a node js project
+# Dependency directories
+node_modules/
+
+# Debug logs
+*.log
+logs/*
+
+# Environment configuration files
+.env
+
+# Production build directory
+/dist
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional editor directory
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Optional macOS files
+.AppleDouble
+.LSOverride
+
+# Optional thumbnail cache files
+._*
+
+# Optional user files
+*.sub
