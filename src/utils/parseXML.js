@@ -209,6 +209,7 @@ const main = async () => {
     for (let i = 0; i < files.length; i++) {
         const xmlFile = fs.readFileSync(`files/read/${files[i]}`, 'utf-8');
         const xmlContent = await xmlToJsonConverter(xmlFile);
+        fs.writeFileSync(`files/dump/sample-${i}.json`, JSON.stringify(xmlContent));
         const result = convertJSONToTaxPayload(xmlContent);
         fs.writeFileSync(`files/dump/result-${files[i]}.xml`, result);
     }

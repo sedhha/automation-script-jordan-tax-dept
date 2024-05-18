@@ -1,4 +1,9 @@
 {
   "read_file_path_from_root": "files/read",
-  "discount_percentage": 7.0
+  "discount_percentage": 7.0,
+  "tax_dept_config": {
+    "base_url": "https://backend.jofotara.gov.jo/core/invoices/",
+    "client_id": "",
+    "client_secret": ""
+  }
 }
