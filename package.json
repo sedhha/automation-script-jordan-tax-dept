@@ -2,14 +2,16 @@
   "name": "post_tax_dept",
   "version": "1.0.0",
   "description": "Scripts to parse xml and post them to tax dept",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "initiate": "node src/main.js"
   },
   "author": "shivam",
   "license": "ISC",
   "dependencies": {
+    "node-cron": "^3.0.3",
     "node-fetch": "^3.3.2",
     "uuid": "^9.0.1",
     "winston": "^3.12.0",

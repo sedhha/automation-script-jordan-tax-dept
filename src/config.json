@@ -1,9 +1,21 @@
 {
   "read_file_path_from_root": "files/read",
-  "discount_percentage": 7.0,
+  "move_completed_file_path": "files/completed",
+  "move_failed_file_path": "files/failed",
+  "show_logs_in_console": true,
+  "cron_expression": "*/30 * * * * *",
   "tax_dept_config": {
+    "services_url": "https://gzb-services.onrender.com",
     "base_url": "https://backend.jofotara.gov.jo/core/invoices/",
-    "client_id": "",
-    "client_secret": ""
+    "client_id": "bf423334-03ae-4bde-b733-d3eaf3faec65",
+    "client_secret": "Gj5nS9wyYHRadaVffz5VKB4v4wlVWyPhcJvrTD4NHtNaGyfi4DyvTRCfd0AUPFX/oaNGlmpP07b4ZcTv0z3VzRQ+Zp/A0p9O9arl3e66vmjkQVHkjFocwZAFbup8dwwo8O6aGKjY0bbQKKAUFptOImKMVXWZhC3aAl/P9w0TBnpkGzR4jnAXc8AY8ccCVqnGtOqYWWrOnq55jP04IhDXi3UFx0CTr6xSiS6opJCvBMUBhZkXDuO2iliy/1TC0MVDrmmDo0M8P1VvjMl6VqAYLA=="
+  },
+  "xml_request_config": {
+    "discount_percentage": 8.0,
+    "tax_number": 2737663,
+    "customer_name": "مؤسسة نديم عواد للبرمجيات",
+    "seller_supplier_party_id": 11472081,
+    "client_id": "bf423334-03ae-4bde-b733-d3eaf3faec65",
+    "client_secret": "Gj5nS9wyYHRadaVffz5VKB4v4wlVWyPhcJvrTD4NHtNaGyfi4DyvTRCfd0AUPFX/oaNGlmpP07b4ZcTv0z3VzRQ+Zp/A0p9O9arl3e66vmjkQVHkjFocwZAFbup8dwwo8O6aGKjY0bbQKKAUFptOImKMVXWZhC3aAl/P9w0TBnpkGzR4jnAXc8AY8ccCVqnGtOqYWWrOnq55jP04IhDXi3UFx0CTr6xSiS6opJCvBMUBhZkXDuO2iliy/1TC0MVDrmmDo0M8P1VvjMl6VqAYLA=="
   }
 }
