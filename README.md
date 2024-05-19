@@ -39,7 +39,7 @@ STEPS to use:
 
 2: Using your terminal, install the dependencies using the command: `npm install` or `yarn`.
 You can check if your node version is correctly installed or not using command: `node -v` this should output a version which should be `>= 18` and `<= 19`.
-3: Make sure your `config.json` is up to date and correct.
+3: Make sure your `config.json` is up to date and correct in `src/config.json` folder.
 4: Once `npm install` succeeds, open another terminal and run the command: `npm run initiate` or `yarn initiate`.
 
 The task will keep running in background as long as its not terminated by user or machine shuts down. All the logs can be found in the console (if its enabled in config) or inside [application-log](logs/) folder.
