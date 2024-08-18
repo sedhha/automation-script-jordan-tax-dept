@@ -12,6 +12,7 @@ Config file looks something like this, make sure its placed in root file with ap
   "read_file_path_from_root": "files/read",
   "move_completed_file_path": "files/completed",
   "move_failed_file_path": "files/failed",
+  "move_failed_payload_path": "files/failed_payload",
   "show_logs_in_console": true,
   "cron_expression": "*/30 * * * * *",
   "tax_dept_config": {

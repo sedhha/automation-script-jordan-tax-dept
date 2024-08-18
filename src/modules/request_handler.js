@@ -34,7 +34,7 @@ const postToTaxDeparment = async (xml, fileName, fail_dump_path) => {
         xml,
         config: config.xml_request_config,
     };
-    await fetch(`${base_url}/jtd/validate-api-to-jtd`, {
+    return fetch(`${base_url}/jtd/validate-api-to-jtd`, {
         method: 'POST',
         headers,
         body: JSON.stringify(body),
