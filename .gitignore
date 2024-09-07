@@ -48,5 +48,8 @@ assets/notes_v1.xlsx
 assets/notes_v2.xlsx
 assets/notes_v3.xlsx
 src/config.json
+src/test-*-config.json
+
 files/completed/*.xml
+files/read/*.xml
 files/failed_payload/*.json
