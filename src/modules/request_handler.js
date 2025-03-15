@@ -35,7 +35,7 @@ const performDryRunStorage = (
         attempted_payload: body,
     };
     fs.writeFileSync(
-        `${fail_dump_path}/dry_run_${failure_id}.json`,
+        `${fail_dump_path}/dry_run_${dry_run_id}.json`,
         JSON.stringify(dry_run_file)
     );
 };
