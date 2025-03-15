@@ -23,6 +23,22 @@ const performFailureSteps = (
     );
 };
 
+const performDryRunStorage = (
+    dry_run_id,
+    fail_dump_path,
+    fileName,
+    body
+) => {
+    const dry_run_file = {
+        dry_run_id,
+        file_name: fileName,
+        attempted_payload: body,
+    };
+    fs.writeFileSync(
+        `${fail_dump_path}/dry_run_${failure_id}.json`,
+        JSON.stringify(dry_run_file)
+    );
+};
 const postToTaxDeparment = async (xml, fileName, fail_dump_path) => {
     const base_url = config.tax_dept_config.services_url;
     const headers = {
@@ -45,6 +61,10 @@ const postToTaxDeparment = async (xml, fileName, fail_dump_path) => {
                     logger.info(
                         `[file_name=${fileName}] Successfully pushed xml to tax department.`
                     );
+                    if (config.xml_request_config.dry_run) {
+                        const dry_run_id = nanoid();
+                        performDryRunStorage(dry_run_id, fail_dump_path, fileName, body, data);
+                    }
                     return { error: false };
                 }
                 const failure_id = nanoid();
